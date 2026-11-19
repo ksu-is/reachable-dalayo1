@@ -1,2 +1,18 @@
-# reachable-dalayo1
-Reachable is a Python based campus lost &amp; found application that helps students report lost or found items, search for missing belongings, and find possible matches.
+README.md
+ Copy
+# Reachable
+
+Reachable is a Python based campus lost & found application designed to help college students locate missing belongings.
+
+## Features
+- Report lost items
+- Report found items
+- Search for missing belongings
+- Match lost and found items
+
+## Technologies
+- Python
+- Streamlit
+- SQLite
+
+This project is being developed as part of my Python programming course.
