@@ -8,7 +8,7 @@
 - [x] Create GitHub repository — dalayo1
 - [x] Research Streamlit — dalayo1
 - [x] Update README.md — dalayo1
-- [ ] Find and clone a related Python repository — dalayo1
+- [x] Find and clone a related Python repository — dalayo1
 - [ ] Test example code and document any issues — dalayo1
 - [ ] Design a lost-item report form — dalayo1
 
