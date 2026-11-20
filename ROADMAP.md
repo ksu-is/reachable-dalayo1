@@ -21,3 +21,12 @@
 
 ## Project Goal
 Build a Python application that helps college students find lost belongings on campus.
+
+## Streamlit Test Results
+
+- Tested Streamlit version 1.67.0.
+- Successfully launched the demo using `python3 -m streamlit hello`.
+- Opened a demo from the sidebar and confirmed it loaded.
+- Initial issue: Streamlit was not installed.
+- Solution: Installed Streamlit using `python3 -m pip install streamlit`.
+- Final result: Streamlit demo ran successfully.
